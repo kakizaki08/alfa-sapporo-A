@@ -199,7 +199,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #7CFF02;
   width: 12px;
   height: 24px;
 }
@@ -244,7 +244,7 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #d9e021;
+  background-color: #5d5d5d;
 }
 
 .bg-color--gray {
@@ -308,7 +308,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #006837;
+  color: #7CFF02;
 }
 
 .section-title--border::after {
@@ -442,7 +442,7 @@ button {
 }
 
 .err-message {
-  color: #c1272d;
+  color: #d63872;
   font-size: 18px;
   text-align: center;
 }
