@@ -275,7 +275,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #5d5d5d;
   margin: 0 -20px 20px -20px;
 }
 
@@ -285,7 +285,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #5d5d5d;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -293,7 +293,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #5d5d5d;
 }
 
 .section-title--story {
